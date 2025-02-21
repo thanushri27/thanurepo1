@@ -2,8 +2,9 @@ class hello
 {
 	public static void main (String[]args)
 	{
-		system.out.println("hello");
-		system.out.println("welcome");
+		System.out.println("hello");
+		System.out.println("welcome");
+		System.out.println("to java lab");
 	}
 }
 
